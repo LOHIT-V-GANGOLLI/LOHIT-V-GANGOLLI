@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lohit</h1>
+<h1 align="center">Hi 👋, I'm Lohit Vinayak Gangolli</h1>
 <h3 align="center">A passionate coder from india</h3>
 
 - 💬 Ask me about **Data structure**
