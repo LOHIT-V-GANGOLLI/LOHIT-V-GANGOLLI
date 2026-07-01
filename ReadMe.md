@@ -1,178 +1,133 @@
-<h1 align="center">Hi 👋, I'm Lohit Vinayak Gangolli</h1>
-<h3 align="center">DevOps Engineer | AWS | Linux | Docker | Kubernetes | Terraform | Jenkins</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;DevOps+Engineer+in+the+Making;AWS+%7C+Linux+%7C+Docker+%7C+Kubernetes;Always+Learning+New+Technologies" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Lohit%20Vinayak%20Gangolli&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DevOps%20Engineer%20|%20AWS%20Cloud%20|%20Linux%20|%20Docker%20|%20Kubernetes&descAlignY=60"/>
 </p>
 
----
+<p align="center">
+
+<a href="https://github.com/LOHIT-V-GANGOLLI">
+<img src="https://img.shields.io/github/followers/LOHIT-V-GANGOLLI?logo=github&style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=LOHIT-V-GANGOLLI&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/LOHIT-V-GANGOLLI?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;DevOps+Engineer;AWS+Cloud+Engineer;Docker+%7C+Kubernetes;Terraform+%7C+Jenkins;Linux+Administrator;Automation+Enthusiast;Always+Learning+New+Things"/>
+
+</p>
+
+<p align="center">
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="700"/>
+</p>
+
 
 ## 🚀 About Me
 
-🎓 Bachelor of Engineering (2024)  
-🏫 KLE Technological University
+| 🎓 Education | Bachelor of Engineering (2024) |
+|-------------|--------------------------------|
+| 🏫 College | KLE Technological University |
+| 📍 Location | Karnataka, India |
+| 💼 Role | DevOps Engineer |
+| 🌱 Learning | AWS, Docker, Kubernetes, Terraform |
+| ❤️ Interests | Cloud, Linux, Automation |
 
-💻 Passionate about **DevOps**, **Cloud Computing**, and **Automation**
+<p align="center">
 
-🌱 Currently Learning
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,jenkins,ansible,git,github,bash,python,c,mysql,vscode,postman&perline=8"/>
 
-- AWS Cloud
-- Docker
-- Kubernetes
-- Jenkins
-- Terraform
-- Ansible
-- Linux Administration
-- Git & GitHub
-
-🎯 Goal
-
-Become a Professional DevOps Engineer and Cloud Engineer.
-
----
-
-## 💻 Tech Stack
-
-### Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,bash" />
 </p>
 
-### DevOps
+🐧 Linux            ██████████ 100%
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,terraform,ansible" />
-</p>
+☁ AWS              ████████░░ 80%
 
-### Cloud
+🐳 Docker           █████████░ 90%
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws" />
-</p>
+☸ Kubernetes        ██████░░░░ 60%
 
-### Operating Systems
+🌍 Terraform        ███████░░░ 70%
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu" />
-</p>
+🔥 Jenkins          ███████░░░ 70%
 
-### Databases
+⚙ Ansible          █████░░░░░ 50%
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
 
-### Tools
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman" />
-</p>
+<a href="https://github.com/LOHIT-V-GANGOLLI/Devops">
 
----
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LOHIT-V-GANGOLLI&repo=Devops&theme=tokyonight"/>
 
-## 📂 Projects
-
-🔹 AWS Infrastructure using Terraform
-
-🔹 Dockerized Web Application
-
-🔹 Jenkins CI/CD Pipeline
-
-🔹 Kubernetes Deployment
-
-🔹 Linux Administration Scripts
-
-🔹 Git & GitHub Practice Repository
-
-More projects coming soon...
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/lohit-vinayak-gangolli-742770245/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/LOHIT-V-GANGOLLI" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="mailto:lgangolli737@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
 </a>
 
 </p>
 
----
+<p align="center">
 
-# 📊 GitHub Stats
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LOHIT-V-GANGOLLI&theme=tokyonight"/>
+
+</p>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LOHIT-V-GANGOLLI&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=LOHIT-V-GANGOLLI&show_icons=true&theme=radical"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOHIT-V-GANGOLLI&layout=compact&theme=tokyonight"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=LOHIT-V-GANGOLLI&theme=radical"/>
 
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LOHIT-V-GANGOLLI&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LOHIT-V-GANGOLLI&theme=github-compact"/>
 
 </p>
-
----
-
-## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=LOHIT-V-GANGOLLI&theme=algolia&margin-w=10&margin-h=10"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=footer&text=Thanks%20For%20Visiting!&fontSize=35&fontColor=ffffff"/>
 
 </p>
 
----
+🌊 Animated Banner
 
-## 📈 Contribution Graph
+⌨ Typing Animation
 
-[![Lohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LOHIT-V-GANGOLLI&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+🏅 Badges
 
----
+💻 Coding GIF
 
-## 🐍 Contribution Snake
+👨 About Me
 
-<p align="center">
+🛠 Tech Stack
 
-<img src="https://github.com/LOHIT-V-GANGOLLI/LOHIT-V-GANGOLLI/blob/output/github-contribution-grid-snake.svg" />
+📚 Learning
 
-</p>
+🚀 Projects
 
----
+📊 GitHub Stats
 
-## ⚡ Fun Fact
+📈 Contribution Graph
 
-> "Automation is not about replacing people. It's about replacing repetitive work."
+🏆 Trophies
 
----
+🐍 Snake Animation
 
-## 👀 Profile Views
+💬 Dev Quote
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=LOHIT-V-GANGOLLI&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+😂 Random Joke
 
----
+📜 Certifications
 
-## 💖 Support
+🌐 Connect
 
-If you like my projects, don't forget to ⭐ my repositories.
+👀 Visitor Counter
 
-Happy Coding! 🚀
+🌊 Animated Footer
+
+
